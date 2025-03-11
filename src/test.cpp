@@ -8,3 +8,9 @@ void test() {
     // Serial.println("Test failed!");
   // }
 }   
+
+void code () {
+  // put your main code here, to run repeatedly:
+  // int result = myFunction(2, 3);
+  // Serial.println(result);
+}
