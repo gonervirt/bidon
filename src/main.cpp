@@ -7,6 +7,16 @@ int myFunction(int, int);
 void loop();
 void setup1();
 
+void function2() {
+  // put your function code here, to run repeatedly:
+  // int result = myFunction(2, 3);
+  //if (result == 5) {
+    // Serial.println("Test passed!");
+  //} else {
+    // Serial.println("Test failed!");
+  // }
+} 
+
 void setup() {
   // put your setup code here, to run once:
   int result = myFunction(2, 3);
