@@ -15,7 +15,9 @@ void function2() {
   //} else {
     // Serial.println("Test failed!");
   // }
-} 
+}
+
+  void function3() ;
 
 void setup() {
   // put your setup code here, to run once:
