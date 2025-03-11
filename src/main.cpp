@@ -19,6 +19,8 @@ void function2() {
 
   void function3() ;
 
+  void function4();
+
 void setup() {
   // put your setup code here, to run once:
   int result = myFunction(2, 3);
