@@ -34,3 +34,13 @@ void loop() {
 int myFunction(int x, int y) {
   return x + y;
 }
+
+void function3() {
+  // put your function code here, to run repeatedly:
+  // int result = myFunction(2, 3);
+  //if (result == 5) {
+    // Serial.println("Test passed!");
+  //} else {
+    // Serial.println("Test failed!");
+  // }
+}
